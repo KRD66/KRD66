@@ -19,7 +19,7 @@ infra      = ["Docker", "AWS"]
 
 ### Connect
 
-- 🛡 [shieldgate.com](https://shieldgate.com)
+- 
 - 🐦 [@oluwa_koredeh](https://x.com/oluwa_koredeh)
 - 📧 farouqtaiwo54@gmail.com
 
