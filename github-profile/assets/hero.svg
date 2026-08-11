@@ -1,0 +1,85 @@
+<svg width="1400" height="480" viewBox="0 0 1400 480" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .mono { font-family: 'Courier New', monospace; }
+    </style>
+  </defs>
+
+  <rect width="1400" height="480" rx="12" fill="#0a0a0a"/>
+  <rect x="1" y="1" width="1398" height="478" rx="11" fill="none" stroke="#1a1a1a" stroke-width="1.5"/>
+
+  <!-- title bar -->
+  <rect x="0" y="0" width="1400" height="46" rx="12" fill="#111"/>
+  <rect x="0" y="34" width="1400" height="12" fill="#111"/>
+  <circle cx="28" cy="23" r="6" fill="#e74c3c"/>
+  <circle cx="50" cy="23" r="6" fill="#f1c40f"/>
+  <circle cx="72" cy="23" r="6" fill="#26A396"/>
+  <text x="110" y="28" class="mono" font-size="13" fill="#5e6870">farouq@github ~/building</text>
+  <text x="1290" y="28" class="mono" font-size="13" fill="#5e6870" text-anchor="end">lagos, ng · UTC+1</text>
+
+  <!-- left column -->
+  <text x="50" y="105" class="mono" font-size="14" letter-spacing="2" fill="#26A396">SOFTWARE ENGINEER · BACKEND · INDIE FOUNDER</text>
+
+  <text x="48" y="175" font-family="'Courier New', monospace" font-weight="700" font-size="58" fill="#e8e8e4">Farouq Taiwo</text>
+
+  <text x="50" y="215" class="mono" font-size="16" fill="#e8e8e4" opacity="0.85" font-style="italic">"My goal is to be as cracked of an engineer as I can be."</text>
+
+  <text x="50" y="250" class="mono" font-size="14" fill="#5e6870">backend · security infrastructure · api design · golang</text>
+
+  <!-- tags -->
+  <g font-family="'Courier New', monospace" font-size="13">
+    <circle cx="58" cy="288" r="4" fill="#26A396"/>
+    <text x="70" y="293" fill="#e8e8e4">Python</text>
+    <rect x="60" y="278" width="118" height="26" rx="13" fill="none" stroke="#1a1a1a"/>
+
+    <circle cx="208" cy="288" r="4" fill="#26A396"/>
+    <text x="220" y="293" fill="#e8e8e4">Django / DRF</text>
+    <rect x="200" y="278" width="150" height="26" rx="13" fill="none" stroke="#1a1a1a"/>
+
+    <circle cx="388" cy="288" r="4" fill="#26A396"/>
+    <text x="400" y="293" fill="#e8e8e4">Golang</text>
+    <rect x="380" y="278" width="115" height="26" rx="13" fill="none" stroke="#1a1a1a"/>
+
+    <circle cx="535" cy="288" r="4" fill="#26A396"/>
+    <text x="547" y="293" fill="#e8e8e4">PostgreSQL</text>
+    <rect x="527" y="278" width="145" height="26" rx="13" fill="none" stroke="#1a1a1a"/>
+
+    <circle cx="712" cy="288" r="4" fill="#26A396"/>
+    <text x="724" y="293" fill="#e8e8e4">Redis</text>
+    <rect x="704" y="278" width="105" height="26" rx="13" fill="none" stroke="#1a1a1a"/>
+  </g>
+
+  <!-- status pill -->
+  <rect x="50" y="330" width="180" height="34" rx="17" fill="none" stroke="#163D2A"/>
+  <circle cx="72" cy="347" r="5" fill="#26A396"/>
+  <text x="86" y="352" class="mono" font-size="13" fill="#26A396">building ShieldGate</text>
+
+  <!-- divider -->
+  <line x1="0" y1="410" x2="1400" y2="410" stroke="#111" stroke-width="1.5"/>
+  <text x="50" y="445" class="mono" font-size="13" fill="#5e6870">OAU · Software Engineering · 2025–2030</text>
+  <text x="1290" y="445" class="mono" font-size="13" fill="#5e6870" text-anchor="end">Nigeria — remote worldwide</text>
+
+  <!-- right stats panel -->
+  <rect x="960" y="90" width="390" height="290" rx="8" fill="#0d0d0d" stroke="#1a1a1a"/>
+  <text x="985" y="125" class="mono" font-size="13" fill="#5e6870">// currently building</text>
+  <circle cx="1320" cy="121" r="4" fill="#26A396"/>
+  <text x="1332" y="126" class="mono" font-size="12" fill="#26A396">live</text>
+
+  <text x="985" y="165" class="mono" font-size="14" fill="#e8e8e4">backend systems</text>
+  <rect x="985" y="175" width="330" height="8" rx="4" fill="#111"/>
+  <rect x="985" y="175" width="300" height="8" rx="4" fill="#26A396"/>
+
+  <text x="985" y="215" class="mono" font-size="14" fill="#e8e8e4">api security &amp; gateways</text>
+  <rect x="985" y="225" width="330" height="8" rx="4" fill="#111"/>
+  <rect x="985" y="225" width="270" height="8" rx="4" fill="#26A396"/>
+
+  <text x="985" y="265" class="mono" font-size="14" fill="#e8e8e4">infra &amp; deployment</text>
+  <rect x="985" y="275" width="330" height="8" rx="4" fill="#111"/>
+  <rect x="985" y="275" width="200" height="8" rx="4" fill="#1F8A78"/>
+
+  <text x="985" y="315" class="mono" font-size="14" fill="#e8e8e4">golang (in progress)</text>
+  <rect x="985" y="325" width="330" height="8" rx="4" fill="#111"/>
+  <rect x="985" y="325" width="130" height="8" rx="4" fill="#1F8A78"/>
+
+  <text x="985" y="360" class="mono" font-size="13" fill="#5e6870">5 projects shipped · 1 launching 2027</text>
+</svg>
