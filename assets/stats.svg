@@ -1,0 +1,35 @@
+<svg width="1400" height="230" viewBox="0 0 1400 230" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>.mono { font-family: 'Courier New', monospace; }</style>
+  </defs>
+
+  <rect width="1400" height="230" rx="12" fill="#0a0a0a"/>
+  <rect x="1" y="1" width="1398" height="228" rx="11" fill="none" stroke="#1a1a1a" stroke-width="1.5"/>
+
+  <circle cx="40" cy="38" r="4" fill="#26A396"/>
+  <text x="54" y="43" class="mono" font-size="13" fill="#5e6870">by the numbers</text>
+
+  <line x1="350" y1="20" x2="350" y2="200" stroke="#111"/>
+  <line x1="700" y1="20" x2="700" y2="200" stroke="#111"/>
+  <line x1="1050" y1="20" x2="1050" y2="200" stroke="#111"/>
+
+  <!-- 19 public repos -->
+  <text x="175" y="120" font-family="'Courier New', monospace" font-weight="700" font-size="56" fill="#f1c40f" text-anchor="middle">19</text>
+  <text x="175" y="155" class="mono" font-size="15" fill="#e8e8e4" text-anchor="middle">public repos</text>
+  <text x="175" y="178" class="mono" font-size="12" fill="#5e6870" text-anchor="middle">shipped in the open</text>
+
+  <!-- Python + Go core -->
+  <text x="525" y="112" font-family="'Courier New', monospace" font-weight="700" font-size="40" fill="#26A396" text-anchor="middle">Python + Go</text>
+  <text x="525" y="145" class="mono" font-size="15" fill="#e8e8e4" text-anchor="middle">core languages</text>
+  <text x="525" y="178" class="mono" font-size="12" fill="#5e6870" text-anchor="middle">Rust exploring next</text>
+
+  <!-- 1 flagship product -->
+  <text x="875" y="120" font-family="'Courier New', monospace" font-weight="700" font-size="56" fill="#3b82f6" text-anchor="middle">1</text>
+  <text x="875" y="155" class="mono" font-size="15" fill="#e8e8e4" text-anchor="middle">flagship product</text>
+  <text x="875" y="178" class="mono" font-size="12" fill="#5e6870" text-anchor="middle">ShieldGate, launching 2027</text>
+
+  <!-- backend-only -->
+  <text x="1225" y="120" font-family="'Courier New', monospace" font-weight="700" font-size="40" fill="#e8e8e4" text-anchor="middle">backend</text>
+  <text x="1225" y="155" class="mono" font-size="15" fill="#e8e8e4" text-anchor="middle">-only, on purpose</text>
+  <text x="1225" y="178" class="mono" font-size="12" fill="#5e6870" text-anchor="middle">API-first, no UI unless it earns it</text>
+</svg>
